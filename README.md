@@ -1,4 +1,4 @@
-# E-commerce Web App 
+# Portfolio fotografia
 
 Questo progetto tratta un sito web che simula un portfolio fotografico.
 
